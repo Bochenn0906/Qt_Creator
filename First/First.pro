@@ -15,8 +15,7 @@ SOURCES += \
 HEADERS += \
     mywidget.h
 
-TRANSLATIONS += \
-    First_zh_CN.ts
+TRANSLATIONS +=
 CONFIG += lrelease
 CONFIG += embed_translations
 
