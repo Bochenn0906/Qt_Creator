@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+D:/Embedded/Qt_projects/Sensor/CMakeLists.txt
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/3.28.0-msvc1/CMakeCXXCompiler.cmake
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/3.28.0-msvc1/CMakeRCCompiler.cmake
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/3.28.0-msvc1/CMakeSystem.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/Embedded/Visual_Studio/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake

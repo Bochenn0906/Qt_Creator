@@ -1,0 +1,3 @@
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/Sensor_reading.dir
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/ALL_BUILD.dir
+D:/Embedded/Qt_projects/Sensor/build/CMakeFiles/ZERO_CHECK.dir
